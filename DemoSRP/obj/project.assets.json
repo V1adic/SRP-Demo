@@ -311,11 +311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\DemoSRP.csproj",
+      "projectUniqueName": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\SRP-Demo\\DemoSRP\\DemoSRP.csproj",
       "projectName": "DemoSRP",
-      "projectPath": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\DemoSRP.csproj",
+      "projectPath": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\SRP-Demo\\DemoSRP\\DemoSRP.csproj",
       "packagesPath": "C:\\Users\\vnori\\.nuget\\packages\\",
-      "outputPath": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\",
+      "outputPath": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\SRP-Demo\\DemoSRP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,20 +9,30 @@
     <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Register</h1>
-        <form id="registerForm">
-            <input type="text" id="registerUsername" placeholder="Username" required>
-            <input type="password" id="registerPassword" placeholder="Password" required>
-            <button type="submit">Register</button>
-        </form>
-        <p id="registerResult"></p>
-        <button onclick="window.location.href='/login'">Go to Login</button>
+    <div class="auth-container">
+        <div class="auth-card">
+            <h1>Register</h1>
+            <form id="registerForm" class="auth-form">
+                <div class="input-group">
+                    <input type="text" id="registerUsername" placeholder="Username" required autocomplete="username">
+                    <label for="registerUsername">Username</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="registerPassword" placeholder="Password" required autocomplete="new-password">
+                    <label for="registerPassword">Password</label>
+                </div>
+                <button type="submit" class="primary-btn">Register</button>
+            </form>
+            <p id="registerResult" class="result-message"></p>
+            <a href="/login" class="link-btn">Already have an account? Login</a>
+        </div>
     </div>
     <script src="/script.js"></script>
-    <script>document.getElementById("registerForm").addEventListener("submit", async (e) => {
+    <script>
+        document.getElementById("registerForm").addEventListener("submit", async (e) => {
             e.preventDefault();
             await register();
-        });</script>
+        });
+    </script>
 </body>
 </html>

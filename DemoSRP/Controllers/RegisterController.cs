@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SRP.Models;
 using SRP;
-using System.Numerics; // Предполагается, что ваши SRP классы находятся в этом пространстве имен
+using System.Numerics;
 
 namespace SRP.Controllers
 {
@@ -25,6 +25,10 @@ namespace SRP.Controllers
                 var verifier = BigInteger.Parse(request.Verifier); // Это v = g^x mod N
                 _userDatabase.RegisterUser(request.Username, salt, verifier);
                 return Ok(new { Message = "User registered successfully" });
+            }
+            catch (InvalidOperationException ex)
+            {
+                return BadRequest(new { Message = ex.Message });
             }
             catch (Exception ex)
             {

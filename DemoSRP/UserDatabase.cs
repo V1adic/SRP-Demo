@@ -30,19 +30,51 @@ namespace SRP
             }
         }
 
-        public void RegisterUser(string username, BigInteger salt, BigInteger verifier)
+        public bool UserExists(string username)
         {
             using (var connection = new SqliteConnection(_connectionString))
             {
                 connection.Open();
                 var command = connection.CreateCommand();
                 command.CommandText = @"
-                    INSERT OR REPLACE INTO Users (Username, Salt, Verifier)
+                    SELECT COUNT(*) 
+                    FROM Users 
+                    WHERE Username = @username";
+                command.Parameters.AddWithValue("@username", username);
+
+                var count = (long)command.ExecuteScalar();
+                return count > 0;
+            }
+        }
+
+        public void RegisterUser(string username, BigInteger salt, BigInteger verifier)
+        {
+            using (var connection = new SqliteConnection(_connectionString))
+            {
+                connection.Open();
+
+                // ѕровер€ем, существует ли пользователь
+                if (UserExists(username))
+                {
+                    throw new InvalidOperationException("User with this username already exists.");
+                }
+
+                var command = connection.CreateCommand();
+                command.CommandText = @"
+                    INSERT INTO Users (Username, Salt, Verifier)
                     VALUES (@username, @salt, @verifier)";
                 command.Parameters.AddWithValue("@username", username);
                 command.Parameters.AddWithValue("@salt", salt.ToString());
                 command.Parameters.AddWithValue("@verifier", verifier.ToString());
-                command.ExecuteNonQuery();
+
+                try
+                {
+                    command.ExecuteNonQuery();
+                }
+                catch (SqliteException ex) when (ex.SqliteErrorCode == 19) // SQLITE_CONSTRAINT (нарушение PRIMARY KEY)
+                {
+                    throw new InvalidOperationException("User with this username already exists.");
+                }
             }
         }
 

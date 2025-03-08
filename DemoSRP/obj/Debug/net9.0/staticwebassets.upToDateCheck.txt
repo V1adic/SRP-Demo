@@ -1,7 +1,7 @@
-D:\new_desctop\progect\криптография\DemoSRP\DemoSRP\wwwroot\script.js
-D:\new_desctop\progect\криптография\DemoSRP\DemoSRP\wwwroot\register.html
-D:\new_desctop\progect\криптография\DemoSRP\DemoSRP\wwwroot\login.html
-D:\new_desctop\progect\криптография\DemoSRP\DemoSRP\wwwroot\styles.css
+D:\new_desctop\progect\криптография\DemoSRP\SRP-Demo\DemoSRP\wwwroot\script.js
+D:\new_desctop\progect\криптография\DemoSRP\SRP-Demo\DemoSRP\wwwroot\register.html
+D:\new_desctop\progect\криптография\DemoSRP\SRP-Demo\DemoSRP\wwwroot\login.html
+D:\new_desctop\progect\криптография\DemoSRP\SRP-Demo\DemoSRP\wwwroot\styles.css
 wwwroot\login.html
 wwwroot\register.html
 wwwroot\script.js
