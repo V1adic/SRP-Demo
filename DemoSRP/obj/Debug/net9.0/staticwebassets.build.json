@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "v+/mv3am0qzFBBsTR6FdWjp0cXUT8qe5MYdJV2XE/H0=",
+  "Source": "DemoSRP",
+  "BasePath": "_content/DemoSRP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoSRP\\wwwroot",
+      "Source": "DemoSRP",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\",
+      "BasePath": "_content/DemoSRP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\iwdw3x71ga-1sxvlx7j8d.gz",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "script#[.{fingerprint=1sxvlx7j8d}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v1bgbi00g2",
+      "Integrity": "DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\n7ivo1nqjl-bsiwv09ix2.gz",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "register#[.{fingerprint=bsiwv09ix2}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "93b0zvxyqp",
+      "Integrity": "JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\register.html"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\p8cvzjdn07-minkzpwjnm.gz",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "login#[.{fingerprint=minkzpwjnm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8bzxxcbt4b",
+      "Integrity": "/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\login.html"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\qqfkf2hivm-hytn9j4y3f.gz",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "styles#[.{fingerprint=hytn9j4y3f}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o3g8cxt8j0",
+      "Integrity": "fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "minkzpwjnm",
+      "Integrity": "Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bsiwv09ix2",
+      "Integrity": "5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1sxvlx7j8d",
+      "Integrity": "P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+      "SourceId": "DemoSRP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\",
+      "BasePath": "_content/DemoSRP",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hytn9j4y3f",
+      "Integrity": "aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "login.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\p8cvzjdn07-minkzpwjnm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001795332136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\p8cvzjdn07-minkzpwjnm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q="
+        }
+      ]
+    },
+    {
+      "Route": "login.minkzpwjnm.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\p8cvzjdn07-minkzpwjnm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001795332136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "minkzpwjnm"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk="
+        }
+      ]
+    },
+    {
+      "Route": "login.minkzpwjnm.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "minkzpwjnm"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dnv5h4+mFqwSg+SBPoPW9tfOOFcP4Kmm1VjPjuxMnIk="
+        }
+      ]
+    },
+    {
+      "Route": "login.minkzpwjnm.html.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\p8cvzjdn07-minkzpwjnm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "minkzpwjnm"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/G03ei0jR/j3xIn/rdN2Q6AvQZzial82KF24dXQvo0Q="
+        }
+      ]
+    },
+    {
+      "Route": "register.bsiwv09ix2.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\n7ivo1nqjl-bsiwv09ix2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsiwv09ix2"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0="
+        }
+      ]
+    },
+    {
+      "Route": "register.bsiwv09ix2.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsiwv09ix2"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0="
+        }
+      ]
+    },
+    {
+      "Route": "register.bsiwv09ix2.html.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\n7ivo1nqjl-bsiwv09ix2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsiwv09ix2"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\n7ivo1nqjl-bsiwv09ix2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UmtvT8XfR6cQAR8PJqtj1qeS16GGnEYkuqMj/mgLN0="
+        }
+      ]
+    },
+    {
+      "Route": "register.html.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\n7ivo1nqjl-bsiwv09ix2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JaduiAPXFionSW52IWgzztZFGGaBSC4mTx2JEyrhhXk="
+        }
+      ]
+    },
+    {
+      "Route": "script.1sxvlx7j8d.js",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\iwdw3x71ga-1sxvlx7j8d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000673400673"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1484"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1sxvlx7j8d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI="
+        }
+      ]
+    },
+    {
+      "Route": "script.1sxvlx7j8d.js",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1sxvlx7j8d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI="
+        }
+      ]
+    },
+    {
+      "Route": "script.1sxvlx7j8d.js.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\iwdw3x71ga-1sxvlx7j8d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1sxvlx7j8d"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\iwdw3x71ga-1sxvlx7j8d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000673400673"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1484"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7q7IXwnX8jtcEEUzfheK5dwjY7KCP3YTcMgj7c2WbI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\iwdw3x71ga-1sxvlx7j8d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 07:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfHCxbPNaIqXbmMZEoCnW7iABvoUvJKWvOP9B7MaHNA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\qqfkf2hivm-hytn9j4y3f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002132196162"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\qqfkf2hivm-hytn9j4y3f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.hytn9j4y3f.css",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\qqfkf2hivm-hytn9j4y3f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002132196162"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hytn9j4y3f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.hytn9j4y3f.css",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hytn9j4y3f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aYyx3ug56hZhrQw2rS6pG/1tvq85NSc9iodBhqH0EYM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.hytn9j4y3f.css.gz",
+      "AssetFile": "D:\\new_desctop\\progect\\криптография\\DemoSRP\\DemoSRP\\obj\\Debug\\net9.0\\compressed\\qqfkf2hivm-hytn9j4y3f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 06:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hytn9j4y3f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHx9WczxzSjHYaJl/tX8QuE7JzkGeLFpLM/7NYP0uNM="
+        }
+      ]
+    }
+  ]
+}

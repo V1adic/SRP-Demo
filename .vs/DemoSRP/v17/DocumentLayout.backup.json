@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\srpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\srpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\srpparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\srpparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\demosrp\\demosrp\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5BD1A6-7946-4DE0-A342-611DBC294E48}|DemoSRP\\DemoSRP.csproj|solutionrelative:demosrp\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "register.html",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+              "RelativeDocumentMoniker": "DemoSRP\\wwwroot\\register.html",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\register.html",
+              "RelativeToolTip": "DemoSRP\\wwwroot\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-08T06:59:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "DemoSRP\\wwwroot\\login.html",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\login.html",
+              "RelativeToolTip": "DemoSRP\\wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-08T06:58:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "DemoSRP\\wwwroot\\script.js",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\script.js",
+              "RelativeToolTip": "DemoSRP\\wwwroot\\script.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-08T06:58:02.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "DemoSRP\\wwwroot\\styles.css",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\wwwroot\\styles.css",
+              "RelativeToolTip": "DemoSRP\\wwwroot\\styles.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-08T06:57:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SrpServer.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\SrpServer.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\SrpServer.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\SrpServer.cs",
+              "RelativeToolTip": "DemoSRP\\SrpServer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:28:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SrpParameters.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\SrpParameters.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\SrpParameters.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\SrpParameters.cs",
+              "RelativeToolTip": "DemoSRP\\SrpParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:28:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "DemoSRP\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:26:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "models.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Models\\models.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\Models\\models.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Models\\models.cs",
+              "RelativeToolTip": "DemoSRP\\Models\\models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:26:43.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\Program.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Program.cs",
+              "RelativeToolTip": "DemoSRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:58:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\UserDatabase.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\UserDatabase.cs",
+              "RelativeToolTip": "DemoSRP\\UserDatabase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:28:54.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DemoSRP\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\DemoSRP\\DemoSRP\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DemoSRP\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:27:13.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
